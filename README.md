@@ -50,4 +50,4 @@ This app was designed as part of the **PackTrack UX Case Study** — a full end-
 
 ---
 
-*Built with Godot Engine + Claude Code*
+*Built with Godot Engine*
